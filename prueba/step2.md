@@ -9,3 +9,15 @@ Al forEach se le pasa como parámetro una función que tiene como argumentos:
 - el valor del elemento
 - el índice del elemento
 - el array que está siendo recorrido
+
+Esto se puede ver en el siguiente ejemplo:
+`formacion-javascript-array/src/ejemplo2_1.js`{{edit}}
+
+Para ejecutarlo:
+`node formacion-javascript-array/src/ejemplo2_1.js`{{execute}}
+
+Este código se puede reducir de la siguiente manera:
+`formacion-javascript-array/src/ejemplo2_2.js`{{edit}}
+
+Para ejecutarlo:
+`node formacion-javascript-array/src/ejemplo2_2.js`{{execute}}
