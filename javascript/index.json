@@ -8,6 +8,10 @@
         {
           "title": "Paso 1",
           "text": "1_holaMundo.md"
+        },
+        {
+          "title": "Paso 2",
+          "text": "2_ambito.md"
         }
       ],
       "intro": {
